@@ -29,11 +29,7 @@
     "typescript": "5.3.3"
   },
   "engines": {
-<<<<<<< HEAD
     "node": "20.x"
-=======
-    "node": "24.x"
->>>>>>> 864b02453b97a44d4f41595d6490d4482bd83564
   },
   "manifest": {
     "host_permissions": [
